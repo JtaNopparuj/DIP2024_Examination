@@ -7,7 +7,7 @@
 
 ## Stringray Segmentation
 <p align="left">
-  <img src="Images/stringRay_flowchart.png" width="700">
+  <img src="Images/stringray_flowchart.png" width="700">
 </p>
 
 ### Average Confusion Matrix
